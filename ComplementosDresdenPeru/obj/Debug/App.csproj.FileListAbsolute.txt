@@ -1,0 +1,13 @@
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\bin\Debug\ComplementosDresdenPeru.exe.config
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\bin\Debug\ComplementosDresdenPeru.exe
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\bin\Debug\ComplementosDresdenPeru.pdb
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\bin\Debug\UI.dll
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\bin\Debug\UI.pdb
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\bin\Debug\UI.dll.config
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\obj\Debug\ComplementosDresdenPeru.Properties.Resources.resources
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\obj\Debug\App.csproj.CopyComplete
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\obj\Debug\ComplementosDresdenPeru.exe
+C:\Users\DESARROLLO_PLUS\source\repos\ComplementosDresdenPeru\ComplementosDresdenPeru\obj\Debug\ComplementosDresdenPeru.pdb

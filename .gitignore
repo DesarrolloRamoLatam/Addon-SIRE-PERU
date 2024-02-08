@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+# Archivos SQLite y archivos de bloqueo
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.lock
